@@ -38,5 +38,5 @@
 <br>
 
 <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;My GitHub-Status...</h2>
- <img height= "175" align="left" src="https://github-readme-stats.vercel.app/api?username=MEKSankalpa&theme=react&show_icons=true&include_all_commits=true" />
- <img height= "175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKSankalpa&theme=react&layout=compact" />
+ <img height= "150" align="left" src="https://github-readme-stats.vercel.app/api?username=MEKSankalpa&theme=react&show_icons=true&include_all_commits=true" />
+ <img height= "150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKSankalpa&theme=react&layout=compact" />
