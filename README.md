@@ -11,7 +11,7 @@
 <p>
   <em>
     This is Me, Keshan Sankalpa , an undergraduate from <a href="https://www.sab.ac.lk/"> <b>Sabaragamuwa University of Sri Lanka</b></a>. <br>
-    <b>Full-Stack Developing Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">.</b> Self-motivated, hardworking and willing to take on new challenges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">.
+    <b>Full-Stack Developing Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="20px">.</b> Self-motivated, hardworking and willing to take on new challenges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">.
   </em> 
 </p>
 <br>
