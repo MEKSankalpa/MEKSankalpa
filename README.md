@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Keshan Sankalpa</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Keshan Sankalpa</h1>
 <h3> Undergraduate | Developer </h3>
 <p>
 <a href="https://www.linkedin.com/in/keshan-sankalpa-5590a1192/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="20" width="30" /></a>
