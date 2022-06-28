@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Keshan Sankalpa</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">, I'm Keshan Sankalpa</h1>
 <h3> Undergraduate | Developer </h3>
 <p>
 <a href="https://www.linkedin.com/in/keshan-sankalpa-5590a1192/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="20" width="30" /></a>
@@ -11,11 +11,11 @@
 <p>
   <em>
     This is Me, Keshan Sankalpa , an undergraduate from <a href="https://www.sab.ac.lk/"> <b>Sabaragamuwa University of Sri Lanka</b></a>. <br>
-    <b>Full-Stack Developing Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="20px">.</b> Self-motivated, hardworking and willing to take on new challenges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">.
+    <b>Full-Stack Developing Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="40">.</b> Self-motivated, hardworking and willing to take on new challenges <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40">.
   </em> 
 </p>
 <br>
-<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;  Personal Stuffs...</h2>
+<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40">&nbsp;  Personal Stuffs...</h2>
 
 - 🌱 I’m currently learning ***React*** and ***Node Js***
 - 👯 I’m looking to collaborate with other ***Open - Source contribution***
@@ -23,7 +23,7 @@
 - ⚡ Fun fact: Playing cricket and pc games.
 
 <br>
-<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;Technical Skills...</h2>
+<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40">&nbsp;Technical Skills...</h2>
 
 <div>
     <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" width="50px" height="50px" align="left"> 
@@ -37,6 +37,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px" align=""> </div>
 <br>
 
-<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;My GitHub-Status...</h2>
+<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40">&nbsp;My GitHub-Status...</h2>
  <img height= "150" align="left" src="https://github-readme-stats.vercel.app/api?username=MEKSankalpa&theme=react&show_icons=true&include_all_commits=true" />
  <img height= "150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKSankalpa&theme=react&layout=compact" />
