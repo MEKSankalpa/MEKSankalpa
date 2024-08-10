@@ -17,7 +17,7 @@
 <br>
 <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40">&nbsp;  Personal Stuffs...</h2>
 
-- 🌱 I’m currently learning ***React*** and ***Node Js***
+- 🌱 I’m currently working ***ASP.NET*** and ***Angular.js***
 - 👯 I’m looking to collaborate with other ***Open - Source contribution***
 - 💡  I like to explore ***New Technologies*** and develop ***Software Solutions***.
 - ⚡ Fun fact: Playing cricket and pc games.
